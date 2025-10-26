@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/User/Documents/mask_detection_api/training/../mlruns/661031503469817276
+creation_time: 1761475444766
+experiment_id: '661031503469817276'
+last_update_time: 1761475444766
+lifecycle_stage: active
+name: face_mask_detection

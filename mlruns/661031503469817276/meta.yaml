@@ -1,6 +1,3 @@
-artifact_location: file:///C:/Users/User/Documents/mask_detection_api/training/../mlruns/661031503469817276
-creation_time: 1761475444766
-experiment_id: '661031503469817276'
-last_update_time: 1761475444766
-lifecycle_stage: active
-name: face_mask_detection
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a8792f61592603934f4a4ebe4d3c851533c40dd9cb4ed00fce001d75d2c1943
+size 255

@@ -1,15 +1,3 @@
-artifact_uri: file:///C:/Users/User/Documents/mask_detection_api/training/../mlruns/661031503469817276/abf8652325ec40aeaf9fc0dd15bc3dce/artifacts
-end_time: 1761475454558
-entry_point_name: ''
-experiment_id: '661031503469817276'
-lifecycle_stage: active
-run_id: abf8652325ec40aeaf9fc0dd15bc3dce
-run_name: angry-jay-398
-run_uuid: abf8652325ec40aeaf9fc0dd15bc3dce
-source_name: ''
-source_type: 4
-source_version: ''
-start_time: 1761475446033
-status: 4
-tags: []
-user_id: Veerance Mabaso
+version https://git-lfs.github.com/spec/v1
+oid sha256:21e1bb6322baf5704f62bd0cf5623920856e07f6f33dc05beacab2cfae2449e8
+size 479

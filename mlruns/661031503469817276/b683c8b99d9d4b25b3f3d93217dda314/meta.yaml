@@ -1,15 +1,3 @@
-artifact_uri: file:///C:/Users/User/Documents/mask_detection_api/training/../mlruns/661031503469817276/b683c8b99d9d4b25b3f3d93217dda314/artifacts
-end_time: 1761479122104
-entry_point_name: ''
-experiment_id: '661031503469817276'
-lifecycle_stage: active
-run_id: b683c8b99d9d4b25b3f3d93217dda314
-run_name: delightful-steed-947
-run_uuid: b683c8b99d9d4b25b3f3d93217dda314
-source_name: ''
-source_type: 4
-source_version: ''
-start_time: 1761475715235
-status: 3
-tags: []
-user_id: Veerance Mabaso
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec1925556dd05c0ea2b0ebabd2c5028d0341cfe2928dbb69a9f0c2af7a6173f
+size 486

@@ -1,1 +1,3 @@
-[{"run_id": "b683c8b99d9d4b25b3f3d93217dda314", "artifact_path": "model", "utc_time_created": "2025-10-26 11:43:48.340690", "flavors": {"tensorflow": {"code": null, "data": "data", "model_type": "keras", "keras_version": "2.15.0", "save_format": "tf"}, "python_function": {"loader_module": "mlflow.tensorflow", "python_version": "3.11.9", "data": "data", "env": {"conda": "conda.yaml", "virtualenv": "python_env.yaml"}}}, "model_uuid": "0d9420387ea84731a2dfbd11281f99d6", "mlflow_version": "2.8.1", "model_size_bytes": 29615746}]
+version https://git-lfs.github.com/spec/v1
+oid sha256:240e73ba141c6cb0704c8992c6bda04f3b3f46f219a926fd206a5cdaafa3f8ad
+size 529

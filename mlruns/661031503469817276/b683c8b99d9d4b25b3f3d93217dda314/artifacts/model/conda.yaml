@@ -1,11 +1,3 @@
-channels:
-- conda-forge
-dependencies:
-- python=3.11.9
-- pip<=25.3
-- pip:
-  - mlflow==2.8.1
-  - numpy==1.24.3
-  - tensorflow-intel==2.15.0
-  - tensorflow==2.15.0
-name: mlflow-env
+version https://git-lfs.github.com/spec/v1
+oid sha256:caee6804f5406cc4aac06b078043779457d6cbdff89c922eb3788013ab428dc8
+size 189
